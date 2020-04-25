@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Index3", "Index3\Index3.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "equalsArrays", "equalsArrays\equalsArrays.csproj", "{A2EAD5A7-E8AB-436D-A3F8-748B9FC2BF1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_ReadMatrix", "09_ReadMatrix\09_ReadMatrix.csproj", "{6012B553-A27C-487A-A193-E89A05B8011D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10", "10\10.csproj", "{552F2917-36BD-40CA-BE1F-2B12787990D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{A2EAD5A7-E8AB-436D-A3F8-748B9FC2BF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2EAD5A7-E8AB-436D-A3F8-748B9FC2BF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2EAD5A7-E8AB-436D-A3F8-748B9FC2BF1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6012B553-A27C-487A-A193-E89A05B8011D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6012B553-A27C-487A-A193-E89A05B8011D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6012B553-A27C-487A-A193-E89A05B8011D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6012B553-A27C-487A-A193-E89A05B8011D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{552F2917-36BD-40CA-BE1F-2B12787990D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{552F2917-36BD-40CA-BE1F-2B12787990D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{552F2917-36BD-40CA-BE1F-2B12787990D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{552F2917-36BD-40CA-BE1F-2B12787990D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
